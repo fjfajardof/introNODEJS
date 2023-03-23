@@ -1,0 +1,17 @@
+{
+  "name": "intronodejs",
+  "version": "0.0.1",
+  "description": "Introducción",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "introNode"
+  ],
+  "author": "Fabianjff97@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
